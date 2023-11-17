@@ -1,4 +1,4 @@
-# Привет, меня зовут Алексей!
+# Привет, меня зовут Руслан!
 
 ---
 
@@ -7,7 +7,11 @@
 Я начинающий бекенд разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила бекенд разработка! С мая 2022 года по апрель 2023 я изучал бекенд разработку на различнах курсах. В настоящий момент мое обучение на курсе завершено и я ищу свою первую работу!
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+ </picture>
 </p>
 
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
