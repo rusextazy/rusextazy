@@ -1,16 +1,91 @@
-### Hi there 👋
+# Привет, меня зовут Алексей!
 
-<!--
-**rusextazy/rusextazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :man_technologist: Обо мне:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я начинающий бекенд разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила бекенд разработка! С мая 2022 года по апрель 2023 я изучал бекенд разработку на различнах курсах. В настоящий момент мое обучение на курсе завершено и я ищу свою первую работу!
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+- :telescope: Участвовал в бассейне Школы 21 от Сбера.
+
+- :seedling: -
+
+- :zap: -
+
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rusextaz)
+
+---
+
+### 🤝 Социальные сети:
+
+  <div id="badges">
+    <a href="https://t.me/rusextaz" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCIoTx5l6tx54IOHj59bk7Vw" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
+    </a>
+    <a href="https://vk.com/rus.extaz" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+  </div>
+
+---
+
+### 💻 Технологии:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 🛠 Инструменты:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+<!-- ### 💻 Пройденные курсы:
+
+| Курсы                                                           | Дата              |
+| ----------------------------------------------------------------| :---------------: |
+| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
+| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
+| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
+| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
+| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
+| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
+| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
+| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+
+--- -->
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/rus_extaz)
+
+### ⚙️ GitHub статистика:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
