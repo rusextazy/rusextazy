@@ -77,7 +77,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/rus_extaz)
+![codewars](https://www.codewars.com/users/rus_extaz/badges/large)
 
 ### ⚙️ GitHub статистика:
 
