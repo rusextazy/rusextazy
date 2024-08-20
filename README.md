@@ -18,9 +18,11 @@
 
 - :zap: -
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-rusextaz-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rusextaz)
+- :mailbox: Как связаться со мной:
 
-- **Email:** example@example.com
+- **Telegram:** [![Telegram Badge](https://img.shields.io/badge/-rusextaz-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rusextaz)
+
+- **Email:** rus.extaz@yandex.ru
 
 ---
 
