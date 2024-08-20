@@ -18,7 +18,7 @@
 
 - :zap: -
 
-:mailbox: Свяжитесь со мной:
+**:mailbox: Свяжитесь со мной:**
 
 - **Telegram:** [![Telegram Badge](https://img.shields.io/badge/-rusextaz-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rusextaz)
 
